@@ -2,7 +2,7 @@
    
     height: 100vh;
    scroll-snap-align:start;
-   background-image: url("../../assets/modelthree.jpeg");
+   /* background-image: url("../../assets/modelthree.jpeg"); */
    background-position: center;
    background-size: cover;
    display: flex;
@@ -30,7 +30,7 @@ span:hover{
     margin-bottom: 8px;
 } 
 h3{
-    color: rgb(104, 104, 104);
+    color: #5C5E62;
     letter-spacing:1px;
     font-size: 14px;
     font-weight: 500;
